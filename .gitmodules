@@ -1,0 +1,11 @@
+[submodule "commons"]
+      path = commons
+      url = git://github.com/jasphall/WeatherAppCommons.git
+
+[submodule "weatheraggregator"]
+      path = weatheraggregator
+      url = git://github.com/jasphall/WeatherAggregator.git
+
+[submodule "weatherpredictor"]
+      path = weatherpredictor
+      url = git://github.com/jasphall/WeatherPredictor.git
